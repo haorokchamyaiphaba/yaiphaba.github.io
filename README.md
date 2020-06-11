@@ -11,7 +11,10 @@ Address:Bishnupur, Manipur,     Email:ngamba12345@gmail.com<br>
 Well that's me.
 <hr>
 I love drawing, watching cartoons, playing games as a way of recreation.Despite these I love cycling.
-My favorite cartoons are:1.Naruto 2.Pokemon 3.Avengers
+My favorite cartoons are:
+<ol>
+  <li>Naruto</li> <li>Pokemon</li> <li>Avengers</li>
+  <ol>
 <h2><u>Cycling - Health & Fitness Benefits</u></h2>
 <ul>
   <li>increased cardiovascular fitness</li>
@@ -23,6 +26,7 @@ My favorite cartoons are:1.Naruto 2.Pokemon 3.Avengers
 <li>decreased body fat levels</li>
 <li>prevention or management of disease</li>
 <li>reduced anxiety and depression</li>
+  </ul>
 ![naruto](https://comicbook.com/anime/news/boruto-better-worse-naruto-shippuden-anime-manga/#1.jpg)
 ![pokemon](https://factsd.com/pokemon-facts/.jpg)
 ![avengers](https://www.britannica.com/topic/the-Avengers-superhero-team.jpg)
