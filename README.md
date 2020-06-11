@@ -1,13 +1,13 @@
 # yaiphaba.github.io
-<h1>WELCOME EVERYONE TO MY FIRST WEBPAGE</H1>
+<center><h1>WELCOME EVERYONE TO MY FIRST WEBPAGE</H1></center>
 <hr>
-Hello Everyone...
+Hello Everyone...<br>
 Let me tell you about myself
 <hr>
 I am Haorokcham Yaiphaba<br>
 class:6, Roll no:30<br>
 school:Mother's Pride Academy<br>
-Address:Bishnupur,Manipur, Email:ngamba12345@gmail.com<br>
+Address:Bishnupur, Manipur,     Email:ngamba12345@gmail.com<br>
 well that's me.
 <hr>
 I love drawing,watching cartoons,playing games as a way of recreation.
