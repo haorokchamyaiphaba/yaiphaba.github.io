@@ -30,9 +30,6 @@ My favorite cartoons are:
 <li>prevention or management of disease</li>
 <li>reduced anxiety and depression</li>
   </ul>
-![naruto](https://comicbook.com/anime/news/boruto-better-worse-naruto-shippuden-anime-manga/#1.jpg)
-![pokemon](https://factsd.com/pokemon-facts/.jpg)
-![avengers](https://www.britannica.com/topic/the-Avengers-superhero-team.jpg)
-
-THANKING YOU....
-HOPE YOU GUYS ENJOYED
+<h4>THANKING YOU....
+HOPE YOU ALL ENJOYED</H4>
+    <HR>
