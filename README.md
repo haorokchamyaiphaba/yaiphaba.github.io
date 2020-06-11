@@ -14,6 +14,7 @@ I love drawing, watching cartoons, playing games as a way of recreation.Despite 
 My favorite cartoons are:
 <ol>
   <u><li>Naruto</li></u>Naruto (ナルト) is a Japanese manga series written and illustrated by Masashi Kishimoto. It tells the story of Naruto Uzumaki, a young ninja who seeks to gain recognition from his peers and also dreams of becoming the Hokage, the leader of his village. The story is in two parts, the first set in Naruto's pre-teen years, and the second in his teens.
+  <a href="https://wallpaperaccess.com/naruto-shippuden-phone">Click here for image </a>
   <u><li>Pokemon</li></u>It is a Japanese anime television series produced by the animation studio OLM, Inc. in association with MediaNet and ShoPro based on the video game franchise by The Pokémon Company. It premiered on TV Tokyo on April 1, 1997. 
   <u><li>Avengers</li></u>Avengers Assemble is an American animated television series based on the fictional Marvel Comics superhero team known as the Avengers. Designed to capitalize on the success of the 2012 film, The Avengers.
   <ol>
