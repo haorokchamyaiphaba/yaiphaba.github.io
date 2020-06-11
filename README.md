@@ -13,7 +13,7 @@ Well that's me.
 I love drawing, watching cartoons, playing games as a way of recreation.Despite these I love cycling.
 My favorite cartoons are:
 <ol>
-  <u><li>Naruto</li> <li>Pokemon</li> <li>Avengers</li></u>
+  <u><li>Naruto</li> <u><li>Pokemon</li> <u><li>Avengers</li>
   <ol>
 <h2><u>Cycling - Health & Fitness Benefits</u></h2>
 <ul>
