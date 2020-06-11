@@ -1,7 +1,9 @@
 # yaiphaba.github.io
+<style>
 body {
   background-color: teal
 }
+</style>
 <center><h1>WELCOME EVERYONE TO MY FIRST WEBPAGE</H1></center>
 <hr>
 Hello Everyone...<br>
