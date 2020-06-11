@@ -1,14 +1,15 @@
 # yaiphaba.github.io
-my first web page
-Hello everyone...
-welcome to my page
-I am Haorokcham Yaiphaba
-class:6
-roll no:30
-school:Mother's Pride Academy
-Address:Bishnupur,Manipur
-Email:ngamba12345@gmail.com
+<h1>WELCOME EVERYONE TO MY FIRST WEBPAGE</H1>
+<hr>
+Hello Everyone...
+Let me tell you about myself
+<hr>
+I am Haorokcham Yaiphaba<br>
+class:6, Roll no:30<br>
+school:Mother's Pride Academy<br>
+Address:Bishnupur,Manipur, Email:ngamba12345@gmail.com<br>
 well that's me.
+<hr>
 I love drawing,watching cartoons,playing games as a way of recreation.
 My favorite cartoons are:1.Naruto 2.Pokemon 3.Avengers
 Despite these I love cycling
